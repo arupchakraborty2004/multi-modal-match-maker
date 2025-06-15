@@ -1,4 +1,4 @@
-#  Multi-Modal Matchmaker
+#  Multi-Modal RAG application for Matchmaker
 
 A smart dating assistant powered by multi-modal Retrieval-Augmented Generation (RAG). This project uses profile bios (text) and uploaded images to suggest compatible matches by comparing both **text and image embeddings** using **CLIP**, **Sentence-BERT**, and **FAISS**.
 
